@@ -1,0 +1,8 @@
+{
+  "name": " CRM Analytics",
+  "description": "Transform raw CRM data into actionable executive reports, revenue insights, and strategic growth playbooks for senior leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
